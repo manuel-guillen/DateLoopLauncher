@@ -1,5 +1,5 @@
 # DateLoopLauncher
-[PowerShell] Script to launch an app by "opening" a link (.lnk) and upon closing app, incrementing date and relaunching app
+[PowerShell] Script to repeatedly launch an app in a loop of "opening" a link (.lnk) and upon closing app, incrementing date and relaunching app
 
 ## Description
 This script initiates an infinite loop that sets the system date, launches an application, waits for it to close, and increments the date before repeating.
